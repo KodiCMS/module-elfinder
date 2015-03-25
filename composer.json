@@ -19,6 +19,6 @@
 		"source":   "https://github.com/KodiCMS/module-elfinder"
 	},
 	"require": {
-		"kodicms/core": "dev-master",
+		"kodicms/core": "dev-master"
 	}
 }
