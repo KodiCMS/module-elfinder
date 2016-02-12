@@ -1,5 +1,5 @@
 {
-	"name":        "kodicms/elfinder",
+	"name":        "kodicms_kohana/elfinder",
 	"type":        "kodicms-module",
 	"description": "The official KodiCMS dashboard module",
 	"homepage":    "http://www.kodicms.ru/",
